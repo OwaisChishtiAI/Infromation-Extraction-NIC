@@ -1,1 +1,1 @@
-# Infromation-Extraction-NIC
+# Information-Extraction-NIC
